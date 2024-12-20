@@ -1,3 +1,5 @@
+ SQL Database Project: Employee Management System
+
 The Payroll Management System (PMS) is an essential platform for organizations to manage payroll operations effectively and securely. PMS streamlines employee management, payroll processing, tax compliance, and reporting while adhering to strict data security protocols. It is designed to function under a subscription model with a freemium trial period for customization based on client requirements.
 
 Key Features:
